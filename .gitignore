@@ -1,0 +1,9 @@
+*.make
+*.obj
+*.cbp
+*.PrjPcbStructure
+*.Cam
+*.Zip
+
+# 忽略文件夹下的所有以下文件夹
+**/**/History/
